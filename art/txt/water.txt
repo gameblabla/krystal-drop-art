@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "watera.png"
+jumpto 0

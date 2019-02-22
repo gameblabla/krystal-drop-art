@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "bcr1.png"
+jumpto 0
+
+newanim
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+file "bcr2.png"
+jumpto 0
+
+newanim 
+file "bcr3.png"
+file "bcr3.png"
+file "bcr3.png"
+file "bcr3.png"
+file "bcr3.png"
+file "bcr3.png"
+file "bcr3.png"
+file "bcr3.png"
+file "bcr3.png"
+file "bcr3.png"
+jumpto 0
+
+newanim 
+file "bcr4.png"
+jumpto 3

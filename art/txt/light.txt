@@ -1,0 +1,25 @@
+spriterate 10
+
+newanim
+file "lighta.png"
+file "lighta.png"
+file "lighta.png"
+file "lighta.png"
+file "lighta.png"
+file "lighta.png"
+file "lighta.png"
+file "lighta.png"
+file "lighta.png"
+file "lighta.png"
+file "lighta1.png"
+file "lighta2.png"
+file "lighta3.png"
+file "lighta2.png"
+file "lighta1.png"
+jumpto 0
+
+
+newanim
+file "darknessa.png"
+file "lighta1.png"
+jumpto 0

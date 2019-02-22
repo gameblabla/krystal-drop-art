@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "bg1.png"
+jumpto 0
+
+newanim
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+file "bg2.png"
+jumpto 0
+
+newanim 
+file "bg3.png"
+file "bg3.png"
+file "bg3.png"
+file "bg3.png"
+file "bg3.png"
+file "bg3.png"
+file "bg3.png"
+file "bg3.png"
+file "bg3.png"
+file "bg3.png"
+jumpto 0
+
+newanim 
+file "bg4.png"
+jumpto 3

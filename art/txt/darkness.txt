@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "darknessa.png"
+jumpto 0

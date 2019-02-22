@@ -1,0 +1,13 @@
+spriterate 9
+
+newanim
+file "nb1.png"
+jumpto 0
+
+newanim
+file "nb1.png"
+file "nb2.png"
+file "nb3.png"
+file "nb4.png"
+file "nb5.png"
+onlyonce

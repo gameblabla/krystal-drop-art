@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "bn81.png"
+jumpto 0
+
+newanim
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+file "bn82.png"
+jumpto 0
+
+newanim 
+file "bn83.png"
+file "bn83.png"
+file "bn83.png"
+file "bn83.png"
+file "bn83.png"
+file "bn83.png"
+file "bn83.png"
+file "bn83.png"
+file "bn83.png"
+file "bn83.png"
+jumpto 0
+
+newanim 
+file "bn84.png"
+jumpto 3

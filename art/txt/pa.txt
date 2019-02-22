@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "pa1.png"
+jumpto 0
+
+newanim
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+file "pa2.png"
+jumpto 0
+
+newanim 
+file "pa3.png"
+file "pa3.png"
+file "pa3.png"
+file "pa3.png"
+file "pa3.png"
+file "pa3.png"
+file "pa3.png"
+file "pa3.png"
+file "pa3.png"
+file "pa3.png"
+jumpto 0
+
+newanim 
+file "pa4.png"
+jumpto 3

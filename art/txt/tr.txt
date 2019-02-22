@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "tr1.png"
+jumpto 0
+
+newanim
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+file "tr2.png"
+jumpto 0
+
+newanim 
+file "tr3.png"
+file "tr3.png"
+file "tr3.png"
+file "tr3.png"
+file "tr3.png"
+file "tr3.png"
+file "tr3.png"
+file "tr3.png"
+file "tr3.png"
+file "tr3.png"
+jumpto 0
+
+newanim 
+file "tr4.png"
+jumpto 3

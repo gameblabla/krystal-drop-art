@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "spacea.png"
+jumpto 0

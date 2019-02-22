@@ -1,0 +1,23 @@
+spriterate 20
+newanim
+file "doorl1.png"
+file "doorl2.png"
+file "doorl3.png"
+file "doorl4.png"
+file "doorl5.png"
+file "doorl6.png"
+file "doorl7.png"
+file "doorl8.png"
+file "doorl9.png"
+file "doorl10.png"
+file "doorl10.png"
+file "doorl9.png"
+file "doorl8.png"
+file "doorl7.png"
+file "doorl6.png"
+file "doorl5.png"
+file "doorl4.png"
+file "doorl3.png"
+file "doorl2.png"
+file "doorl1.png"
+jumpto 0

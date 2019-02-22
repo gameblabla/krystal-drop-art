@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "flr1.png"
+jumpto 0
+
+newanim
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+file "flr2.png"
+jumpto 0
+
+newanim 
+file "flr3.png"
+file "flr3.png"
+file "flr3.png"
+file "flr3.png"
+file "flr3.png"
+file "flr3.png"
+file "flr3.png"
+file "flr3.png"
+file "flr3.png"
+file "flr3.png"
+jumpto 0
+
+newanim 
+file "flr4.png"
+jumpto 3

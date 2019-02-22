@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "timea.png"
+jumpto 0

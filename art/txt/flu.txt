@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "flu1.png"
+jumpto 0
+
+newanim
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+file "flu2.png"
+jumpto 0
+
+newanim 
+file "flu3.png"
+file "flu3.png"
+file "flu3.png"
+file "flu3.png"
+file "flu3.png"
+file "flu3.png"
+file "flu3.png"
+file "flu3.png"
+file "flu3.png"
+file "flu3.png"
+jumpto 0
+
+newanim 
+file "flu4.png"
+jumpto 3

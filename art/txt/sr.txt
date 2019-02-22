@@ -1,0 +1,12 @@
+spriterate 1
+
+newanim
+file "sr1.png"
+jumpto 0
+
+newanim
+file "sr1.png"
+file "sr2.png"
+file "sr3.png"
+file "sr4.png"
+onlyonce

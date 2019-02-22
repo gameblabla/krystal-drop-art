@@ -1,0 +1,12 @@
+spriterate 24
+
+newanim
+file "ar_r1.png"
+file "ar_r2.png"
+file "ar_r3.png"
+file "ar_r4.png"
+file "ar_r5.png"
+file "ar_r6.png"
+file "ar_r7.png"
+file "ar_r8.png"
+jumpto 0

@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "po1.png"
+jumpto 0
+
+newanim
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+file "po2.png"
+jumpto 0
+
+newanim 
+file "po3.png"
+file "po3.png"
+file "po3.png"
+file "po3.png"
+file "po3.png"
+file "po3.png"
+file "po3.png"
+file "po3.png"
+file "po3.png"
+file "po3.png"
+jumpto 0
+
+newanim 
+file "po4.png"
+jumpto 3

@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "winda.png"
+jumpto 0

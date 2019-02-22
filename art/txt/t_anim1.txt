@@ -1,0 +1,6 @@
+spriterate 40
+
+newanim
+file "title1.png"
+jumpto 0
+

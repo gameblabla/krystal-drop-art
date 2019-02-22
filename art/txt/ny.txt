@@ -1,0 +1,13 @@
+spriterate 9
+
+newanim
+file "ny1.png"
+jumpto 0
+
+newanim
+file "ny1.png"
+file "ny2.png"
+file "ny3.png"
+file "ny4.png"
+file "ny5.png"
+onlyonce

@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "firea.png"
+jumpto 0

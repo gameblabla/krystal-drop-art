@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "foresta.png"
+jumpto 0

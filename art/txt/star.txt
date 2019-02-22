@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "star.png"
+jumpto 0

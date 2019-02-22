@@ -1,0 +1,90 @@
+spriterate 10
+
+newanim
+file "light_n.png"
+file "light_i1.png"
+file "light_i2.png"
+file "light_i3.png"
+file "light_i4.png"
+file "light_i5.png"
+jumpto 0
+
+newanim
+file "light_sl.png"
+file "light_n.png"
+file "light_sl.png"
+file "light_n.png"
+jumpto 0
+
+newanim
+file "light_sr.png"
+file "light_n.png"
+file "light_sr.png"
+file "light_n.png"
+jumpto 0
+
+newanim
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+jumpto 0
+
+newanim
+file "light_l1.png"
+file "light_l2.png"
+jumpto 0
+
+newanim
+file "light_tc2.png"
+file "light_tc2.png"
+file "light_tc2.png"
+file "light_tc1.png"
+file "light_tc1.png"
+file "light_tc1.png"
+jumpto 8
+
+
+newanim
+file "light_tc1.png"
+file "light_tc2.png"
+file "light_tc2.png"
+file "light_tc2.png"
+file "light_tc2.png"
+jumpto 0
+
+newanim
+file "light_v1.png"
+file "light_v2.png"
+jumpto 7
+
+newanim
+file "light_htc.png"
+jumpto 8
+
+newanim
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+file "light_n1.png"
+file "light_n2.png"
+jumpto 8

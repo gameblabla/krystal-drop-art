@@ -1,0 +1,14 @@
+spriterate 10
+
+newanim
+file "clown_idle 01.png"
+file "clown_idle 02.png"
+file "clown_idle 03.png"
+file "clown_idle 04.png"
+file "clown_idle 05.png"
+file "clown_idle 06.png"
+file "clown_idle 07.png"
+file "clown_idle 08.png"
+file "clown_idle 09.png"
+file "clown_idle 10.png"
+jumpto 0

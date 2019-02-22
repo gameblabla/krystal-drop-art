@@ -1,0 +1,5 @@
+spriterate 1
+
+newanim
+file "chaosa.png"
+jumpto 0

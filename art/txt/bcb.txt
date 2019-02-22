@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "bcb1.png"
+jumpto 0
+
+newanim
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+file "bcb2.png"
+jumpto 0
+
+newanim 
+file "bcb3.png"
+file "bcb3.png"
+file "bcb3.png"
+file "bcb3.png"
+file "bcb3.png"
+file "bcb3.png"
+file "bcb3.png"
+file "bcb3.png"
+file "bcb3.png"
+file "bcb3.png"
+jumpto 0
+
+newanim 
+file "bcb4.png"
+jumpto 3

@@ -1,0 +1,16 @@
+spriterate 4
+newanim
+file "line1.png"
+jumpto 0
+newanim
+file "line1.png"
+file "line2.png"
+file "line3.png"
+file "line4.png"
+jumpto 1
+newanim
+file "line4.png"
+file "line3.png"
+file "line2.png"
+file "line1.png"
+jumpto 2

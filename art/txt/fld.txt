@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "fld1.png"
+jumpto 0
+
+newanim
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+file "fld2.png"
+jumpto 0
+
+newanim 
+file "fld3.png"
+file "fld3.png"
+file "fld3.png"
+file "fld3.png"
+file "fld3.png"
+file "fld3.png"
+file "fld3.png"
+file "fld3.png"
+file "fld3.png"
+file "fld3.png"
+jumpto 0
+
+newanim 
+file "fld4.png"
+jumpto 3

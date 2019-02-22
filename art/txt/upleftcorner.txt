@@ -1,0 +1,3 @@
+spriterate 0
+newanim
+file "upleftcorner.png"

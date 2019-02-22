@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "bcy1.png"
+jumpto 0
+
+newanim
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+file "bcy2.png"
+jumpto 0
+
+newanim 
+file "bcy3.png"
+file "bcy3.png"
+file "bcy3.png"
+file "bcy3.png"
+file "bcy3.png"
+file "bcy3.png"
+file "bcy3.png"
+file "bcy3.png"
+file "bcy3.png"
+file "bcy3.png"
+jumpto 0
+
+newanim 
+file "bcy4.png"
+jumpto 3

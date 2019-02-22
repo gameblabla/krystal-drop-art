@@ -1,0 +1,37 @@
+spriterate 12
+
+newanim
+file "fi1.png"
+jumpto 0
+
+newanim
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+file "fi2.png"
+jumpto 0
+
+newanim 
+file "fi3.png"
+file "fi3.png"
+file "fi3.png"
+file "fi3.png"
+file "fi3.png"
+file "fi3.png"
+file "fi3.png"
+file "fi3.png"
+file "fi3.png"
+file "fi3.png"
+jumpto 0
+
+newanim 
+file "fi4.png"
+jumpto 3
